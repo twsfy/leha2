@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js ie6 oldie" xmlns:fb="http://ogp.me/ns/fb#" lang="ru"><![endif]-->
+<!--[if IE 7]><html class="no-js ie7 oldie" xmlns:fb="http://ogp.me/ns/fb#" lang="ru"><![endif]-->
+<!--[if IE 8]><html class="no-js ie8" xmlns:fb="http://ogp.me/ns/fb#" lang="ru"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" xmlns:fb="http://ogp.me/ns/fb#" lang="ru"><!--<![endif]-->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="MobileOptimized" content="320"/>
+	<meta name="viewport" content="initial-scale=1.0,width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0"/>
+	<title>Погода в Минске и Минской области на неделю. Подробный прогноз погоды в Минске на 3 дня и ближайшую неделю - POGODA.TUT.BY</title>
+	<meta http-equiv="cleartype" content="on"/>
+	<meta name="apple-mobile-web-app-title" content="Погода"/>
+	<link rel="icon" href="http://pogoda.tut.by/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="http://pogoda.tut.by/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" type="text/css" href="http://pogoda.tut.by/css/by4/normalize~resp~modal~r1028~r1431~r0.css" />
+	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://pogoda.tut.by/css/by4/ie6~r1028~r1431~r0.css" /><![endif]-->
+	<link rel="stylesheet" type="text/css" href="http://pogoda.tut.by/css/by4/weather~r1028~r1431~r0.css" />
+	<meta property="description" content="Прогноз погоды в Минске и Минской области на неделю. Подробная погода в Минске на завтра и на 3 дня, текущая температура и влажность воздуха." />
+	<meta property="keywords" content="прогноз погода неделя Минск область 3 дня подробный точный температура влажность" />
+	<meta property="og:title" content="Погода в Минске и Минской области на неделю. Подробный прогноз погоды в Минске на 3 дня и ближайшую неделю - POGODA.TUT.BY" />
+	<meta property="og:description" content="Прогноз погоды в Минске и Минской области на неделю. Подробная погода в Минске на завтра и на 3 дня, текущая температура и влажность воздуха." />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://pogoda.tut.by/city/minsk/" />
+	<meta property="og:image" content="http://img.tut.by/weather/logo.gif" />
+	<meta property="og:locale" content="ru_RU" />
+	<meta property="og:site_name" content="POGODA.TUT.BY - прогноз погоды в Беларуси и зарубежье." />
+	
+	<script src="http://tut.by/scripts/by4/jquery-1.8.3.min~modernizr.custom.79003~bootstrap~bootstrap-ext~core~search~swfobject~geo~geo-ext~auth~topbar~ext~content~r1048~r1418~r0.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://news.tut.by/scripts/by4/core~r1048~r1418~r0.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" src="http://www.tut.by/scripts/by4/geo-ext-weather-abroad~geo-ext-weather-belarus~geo-ext-weather-cis~geo-ext-weather-spa~r1048~r1418~r0.js" charset="utf-8"></script>
+	<script type="text/javascript" src="http://pogoda.tut.by/scripts/by4/suggest~r1048~r1418~r0.js" charset="utf-8"></script>
+	<script type="text/javascript">/* <![CDATA[ */
+	isIE6=false;
+	TUTBYLPath="http:\/\/pogoda.tut.by\/";
+	TUTBYLLang="rus";
+	TUTBYLTime=1394027020;
+	TUTBYLVersion="";
+	runCore.init({
+		"host": "\/",
+		"lang": "rus",
+		"time": 1394027020,
+		"geotarget": ["0","0"],
+		"user": { "email": "" },
+		"weathertarget": "26850",
+		"rev": { "js": "r1048~r1418~r0", "css": "r1028~r1431~r0" }
+	});
+/* ]]> */</script>
+	<!--[if IE 6]><script type="text/javascript">/* <![CDATA[ */
+		isIE6=true;
+	/* ]]> */</script><![endif]-->
+	<!--[if lte IE 8]><script type="text/javascript">/* <![CDATA[ */
+		/* bug 312 - Anchor links klobber the page Title in IE. Affects: IE7, IE8 Beta 1, IE8 Beta 2, IE8 PR1, IE8 RC1 */
+		$(document).ready(function(){ document.title="POGODA.TUT.BY - Погода в Минске и Минской области на 3 дня. Точная погода в Минске днём и ночью на сегодня и завтра, прогноз погоды в Минске на октябрь месяц." });
+	/* ]]> */</script><![endif]-->
+	<script src="http://www.tut.by/scripts/by4/respond.min.js" type="text/javascript" charset="utf-8"></script>
+	<meta name="google-site-verification" content="f-6GnRRA7oTzx-aPcTQ546aRHeu2ynaXw64h6PhlgY8" />
+	<meta name='yandex-verification' content='4f68ca7c273dca0d' />
+	<!-- CODE[05.03.2014 12:22]: pogoda.tut.by, head -->
+<script type="text/javascript">/* <![CDATA[ */
+var pp_gemius_identifier=new String('0iIwsmMQy1eY8jlhWiyNUcQ63wiWA69Z7xwPyNAAx.X.V7');
+var pp_gemius_hitcollector='gaby1.hit.gemius.pl';
+/* ]]> */</script><script type="text/javascript" src="http://www.tut.by/scripts/by2/xgemius.js" charset="utf-8"></script>
+
+</head><body>
+<div class="top-offer m-media"><div style="text-align:center;"><object id="banObject24683"  classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="100%" height="90"><param name="movie" value="http://bugaga.tut.by/24683_salamander.swf"><param name="quality" value="best"><param name="wmode" value="opaque"><param name="flashvars" value="link1=http://preved.tut.by/?clickid=24683%26frameid=189%26keywordid=0%26rnd=42136%26u=8618228b2b3bfa4ca67a7c79f6e38f72"/><embed id="banEmbed24683"  src="http://bugaga.tut.by/24683_salamander.swf" quality="best" flashvars="link1=http://preved.tut.by/?clickid=24683%26frameid=189%26keywordid=0%26rnd=42136%26u=8618228b2b3bfa4ca67a7c79f6e38f72" wmode="opaque"  pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="100%" height="90"></object><div id="altBan24683" style="display:none;"><a href="http://preved.tut.by/?clickid=24683&frameid=189&keywordid=0&rnd=42136&u=8618228b2b3bfa4ca67a7c79f6e38f72" target="_blank"><img border="0" src="http://bugaga.tut.by/24683_zaglushka.jpg"/></a></div><script type="text/javascript" src="http://reklama.tut.by/scripts/by/flashDetect.js?ver=2.5"></script></div></div><div class="outer"><div id="mainmenu" class="b-topbar"><div class="b-topbar-h"><ul class="b-topbar-i"><li class="topbar__li m-mediamin"><a id="aside_top_menu" href="" class="topbar-tablink"><i class="b-icon icon-menu"></i></a>
+<script type="text/javascript">/* <![CDATA[ */
+try {$("#aside_top_menu").click(function(e){
+	e.preventDefault();
+	var eL = $("html");
+	var oW = $(window);
+	var sC = 'asidenav-active';
+	var sE = '.asidenav';
+	runCore.modal_geotarget("adaptive");
+	if(eL.toggleClass(sC).hasClass(sC)){
+		oW.on('resize'+sE,function(){
+			if(oW.width()>999){
+				eL.removeClass(sC) ;
+				oW.off(sE);
+			}
+		});
+	} else {
+		oW.off(sE);
+	}
+	return false;
+});} catch(e) {};
+/* ]]> */</script></li>
+<li class="topbar__li b-topbar-aside"><a id="geotarget_top_selector" class="topbar-changeregion geoTargetName" title="Выберите свой населенный пункт, чтобы читать новости вашего региона" data-geocode="15800"><i class="b-icon icon-region"></i>&nbsp;<span class="region-ttl"><span>Минск</span></span></a></li>
+<li class="topbar__li item_1 m-media"><a href="http://www.tut.by/" title="TUT.BY" data-url-1="http://www.tut.by/resource/?id=1898&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://www.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">TUT.BY</a></li><li class="topbar__li item_2 m-media"><a href="http://finance.tut.by/" title="Финансы" data-url-1="http://www.tut.by/resource/?id=115&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://finance.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Финансы</a>&nbsp;<span class="green">$9780</span></li><li class="topbar__li item_3 m-media"><a href="http://afisha.tut.by/" title="Афиша" data-url-1="http://www.tut.by/resource/?id=75&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://afisha.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Афиша</a></li><li class="topbar__li item_5 m-media"><a href="http://jobs.tut.by/" title="Работа" data-url-1="http://www.tut.by/resource/?id=12&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://jobs.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Работа</a></li><li class="topbar__li item_6 m-media"><a href="http://auto.tut.by/" title="Авто" data-url-1="http://www.tut.by/resource/?id=1752&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://auto.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Авто</a></li><li class="topbar__li item_8 m-media"><a href="http://music.tut.by/" title="Музыка" data-url-1="http://www.tut.by/resource/?id=21&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://music.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Музыка</a></li><li class="topbar__li item_11 m-media"><a href="http://maps.tut.by/" title="Карты" data-url-1="http://www.tut.by/resource/?id=906&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://maps.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Карты</a></li><li class="topbar__li item_14 m-media"><a href="http://tvset.tut.by/" title="ТВ-программа" data-url-1="http://www.tut.by/resource/?id=182&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://tvset.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">ТВ-программа</a></li><li class="topbar__li item_15 m-media"><a href="http://kupi.tut.by" title="Магазины" data-url-1="http://www.tut.by/resource/?id=1926&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://kupi.tut.by?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Магазины</a></li><li class="topbar__li topbar-more m-media"><a href="http://www.tut.by/resource/" data-target-popup="addon-menu-items"><span>Все ресурсы</span><i class="b-icon icon-down"></i></a></li></ul>
+<script type="text/javascript">
+/* <![CDATA[ */
+try {$("#geotarget_top_selector").click(function(e){
+e.preventDefault();
+runCore.modal_geotarget("adaptive");
+$(this).parent("li").toggleClass("active");
+return false;
+});} catch(e) {};
+/* ]]> */
+</script><ul class="b-topbar-more" data-popup="addon-menu-items">
+	<li><a href="http://news.tut.by/" title="Новости" data-url-1="http://www.tut.by/resource/?id=185&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://news.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Новости</a></li><li><a href="http://lady.tut.by/" title="Леди" data-url-1="http://www.tut.by/resource/?id=1670&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://lady.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Леди</a></li><li><a href="http://realty.tut.by/" title="Недвижимость" data-url-1="http://www.tut.by/resource/?id=188&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://realty.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Недвижимость</a></li><li><a href="http://tourism.tut.by/" title="Туризм" data-url-1="http://www.tut.by/resource/?id=277&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://tourism.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Туризм</a></li><li><a href="http://sport.tut.by/" title="Спорт" data-url-1="http://www.tut.by/resource/?id=1141&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://sport.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Спорт</a></li><li><a href="http://irr.tut.by/" title="Объявления" data-url-1="http://www.tut.by/resource/?id=14&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://irr.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Объявления</a></li><li><a href="http://news.tut.by/tag/tutby-tv.html" title="TUT.BY-ТВ" data-url-1="http://www.tut.by/resource/?id=1459&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://news.tut.by/tag/tutby-tv.html?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">TUT.BY-ТВ</a></li><li><a href="http://avia.tut.by/" title="Авиабилеты" data-url-1="http://www.tut.by/resource/?id=1582&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://avia.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Авиабилеты</a></li><li><a href="http://ay.tut.by/" title="Аукционы" data-url-1="http://www.tut.by/resource/?id=229&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://ay.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Аукционы</a></li><li><a href="http://blog.tut.by/" title="Блоги" data-url-1="http://www.tut.by/resource/?id=308&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://blog.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Блоги</a></li><li><a href="http://games.tut.by/" title="Игры" data-url-1="http://www.tut.by/resource/?id=158&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://games.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Игры</a></li><li><a href="http://catalog.tut.by/" title="Каталог" data-url-1="http://www.tut.by/resource/?id=13&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://catalog.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Каталог</a></li><li><a href="http://kino.tut.by/" title="Кино" data-url-1="http://www.tut.by/resource/?id=1802&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://kino.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Кино</a></li><li><a href="http://it.tut.by/" title="Новости IT" data-url-1="http://www.tut.by/resource/?id=213&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://it.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Новости IT</a></li><li><a href="http://profi.tut.by" title="Ответы профи" data-url-1="http://www.tut.by/resource/?id=1781&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://profi.tut.by?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Ответы профи</a></li><li><a href="http://plati.tut.by/?utm_source=main_page&amp;utm_medium=main_resource_block&amp;utm_campaign=platezhi_online" title="Платежи online" data-url-1="http://www.tut.by/resource/?id=1018&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://plati.tut.by/?utm_source=main_page&amp;utm_medium=main_resource_block&amp;utm_campaign=platezhi_online">Платежи online</a></li><li><a href="http://go.tut.by" title="Поиск" data-url-1="http://www.tut.by/resource/?id=89&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://go.tut.by?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Поиск</a></li><li><a href="http://mail.tut.by/" title="Почта" data-url-1="http://www.tut.by/resource/?id=10&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://mail.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Почта</a></li><li><a href="http://pravo.tut.by/" title="Право" data-url-1="http://www.tut.by/resource/?id=1830&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://pravo.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Право</a></li><li><a href="http://povod.tut.by/" title="Праздники" data-url-1="http://www.tut.by/resource/?id=816&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://povod.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Праздники</a></li><li><a href="http://vashdom.tut.by/" title="Строительство" data-url-1="http://www.tut.by/resource/?id=909&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://vashdom.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Строительство</a></li><li><a href="http://forums.tut.by/" title="Форумы" data-url-1="http://www.tut.by/resource/?id=15&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://forums.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Форумы</a></li><li><a href="http://hoster.by/regby/" title="Домены .BY" data-url-1="http://www.tut.by/resource/?id=28&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://hoster.by/regby/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Домены .BY</a></li><li><a href="http://help.blog.tut.by" title="Нужна помощь" data-url-1="http://www.tut.by/resource/?id=712&amp;utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" data-url-2="http://help.blog.tut.by?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links">Нужна помощь</a></li>
+	<li class="mores"><a href="http://www.tut.by/resource/?utm_source=pogoda.tut.by&utm_medium=top_menu&utm_campaign=tutby_links" class="gray">Больше ресурсов</a></li>
+</ul></div></div><script type="text/javascript">/* <![CDATA[ */
+try { (function(){ this && (function() {
+for(var fn=function() {
+	if(this.getAttribute("data-url-2")) {
+		this.href=this.getAttribute("data-url-2");
+		this.removeAttribute("data-url-2");
+	}
+	if(this.getAttribute("data-url-1"))
+		this.onclick=function() {
+			this.href=this.getAttribute("data-url-1");
+			return true;
+		};
+}, i=this.length-1;i>=0;i--) fn.apply(this.item(i));
+}).apply(this.getElementsByTagName("a")); }).apply(document.getElementById("mainmenu"));}catch(e){};
+try{ runCore.initTopBar("v4"); }catch(e){};
+/* ]]> */</script><ul style="display: none;"><li id="authorize" class="topbar__li topbar-enter"><a id="show_user" class="show_user" data-target-popup="authorize-form"><span class="enter">
+<i class="b-icon icon-auth"></i><span class="ttl">Вход</span></span></a><div class="b-auth-f" data-popup="authorize-form" style="display: none;">
+<form accept-charset="utf-8" action="https://profile.tut.by/authorize/" method="post">
+<input type="hidden" value="login" name="login_action"/>
+<input class="i-p" type="text" placeholder="Имя" name="login"/>
+<input class="i-p" type="password" placeholder="Пароль" name="password"/>
+<div class="b-hold"><button class="button" type="submit"><span class="button__inner">Войти</span></button>
+<span class="b-remember"><input id="memory" type="checkbox" checked="checked" value="1" name="memory"/>
+<label for="memory">Запомнить меня</label></span></div>
+<p class="b-auth-recall"><a href="http://profile.tut.by/secret.html">Забыли пароль?</a></p>
+<p class="b-auth-reg"><a href="http://profile.tut.by/newtut.html">Регистрация</a></p></form>
+<div class="b-auth-soc"><p class="auth-soc-h">Войти, как пользователь</p><ul class="b-vlist">
+<li class="b-vlist__li"><a href="http://profile.tut.by/externalauth.html?login=facebook" rel="nofollow"><i class="b-icon icon-fb"></i>Facebook</a></li>
+<li class="b-vlist__li"><a href="http://profile.tut.by/externalauth.html?login=vk" rel="nofollow"><i class="b-icon icon-vk"></i>Вконтакте</a></li></ul></li>
+<script type="text/javascript">
+/* <![CDATA[ */
+try { runCore.init_auth_guest("#authorize","inner"); } catch(e) {};
+try { runCore.init_tracking("#authorize"); } catch(e) {};
+/* ]]> */
+</script>
+</ul><script type="text/javascript">/* <![CDATA[ */
+$("li#authorize").detach().prependTo('.b-topbar-i');
+/* ]]> */</script></div><div class="b-aside-nav"><ul class="asidenav-list"><li class="asidenav-list__li"><a href="http://www.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" class="tablink" target="_blank">TUT.BY</a></li><li class="asidenav-list__li"><a href="http://finance.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" class="tablink" target="_blank">Финансы&nbsp;<span class="green">$9780</span></a></li><li class="asidenav-list__li"><a href="http://afisha.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" class="tablink" target="_blank">Афиша</a></li><li class="asidenav-list__li"><a href="http://jobs.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" class="tablink" target="_blank">Работа</a></li><li class="asidenav-list__li"><a href="http://auto.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" class="tablink" target="_blank">Авто</a></li><li class="asidenav-list__li"><a href="http://music.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" class="tablink" target="_blank">Музыка</a></li><li class="asidenav-list__li"><a href="http://maps.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" class="tablink" target="_blank">Карты</a></li><li class="asidenav-list__li"><a href="http://tvset.tut.by/?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" class="tablink" target="_blank">ТВ-программа</a></li><li class="asidenav-list__li"><a href="http://kupi.tut.by?utm_source=pogoda.tut.by&amp;utm_medium=top_menu&amp;utm_campaign=tutby_links" class="tablink" target="_blank">Магазины</a></li></ul></div>
+
+<div class="outer"><div class="b-section"><div class="b-header"><div class="b-header-h"><div class="b-header-i">
+<div class="logo"><a href="http://pogoda.tut.by/" class="name-resource">ПОГОДА</a><a href="http://www.tut.by/"><img src="http://img.tyt.by/i/logo.png" alt="" width="142" height="27" /></a></div>
+<form id="search" method="post" action="http://www.tut.by/search/" accept-charset="utf-8" class="main-search"><div class="b-search"><div class="hold"><div class="search-controls">
+<input class="ip-reset" type="reset" value="" />
+<select id="resource_search" class="c_sl" name="url" style="opacity: 0; height: 28px;"><option value="http://pogoda.tut.by/search/?str=" selected="selected">Погода</option><option value="http://search.tut.by/?status=1&amp;ru=1&amp;encoding=1&amp;page=0&amp;how=rlv&amp;query=" data-hint="Поиск">Интернет</option><option value="http://search.tut.by/?status=1&amp;encoding=1&amp;page=0&amp;how=rlv&amp;query=" data-hint="Поиск в Байнете">Байнет</option><option value="http://news.tut.by/search/?str=" data-hint="Поиск по проектам TUT.BY">TUT.BY</option><option value="http://maps.tut.by/?s_str=" data-hint="Введите адрес">Адреса</option><option value="http://jobs.tut.by/applicant/searchvacancyresult.xml?areaId=16&amp;text=" data-hint="Введите специальность">Вакансии</option><option value="http://catalog.tut.by/search/?str=" data-hint="Искать по каталогу компаний">Каталог компаний</option><option value="http://kino.tut.by/?query_search=" data-hint="Введите название фильма">Кино</option><option value="http://leki.tut.by/search?from=tutby&amp;q=" data-hint="Введите название лекарства">Лекарства</option><option value="http://i.tut.by/usearch.html?friend_text=" data-hint="Введите имя человека">Люди</option><option value="http://kupi.tut.by/search/?str=" data-hint="Введите название товара">Магазины</option><option value="http://music.tut.by/search.html?query_search=" data-hint="Введите название песни">MP3</option><option value="http://irr.tut.by/searchads/search/keywords=" data-hint="Поиск по объявлениям">Объявления</option><option value="http://search.tut.by/?is=1&amp;page=0&amp;ru=1&amp;isize=&amp;query=" data-hint="Поиск по картинкам">Картинки</option><option value="http://ay.tut.by/sch/?kwd=" data-hint="Поиск по аукционам">Аукционы</option><option value="http://forums.tut.by/search.php?do=process&amp;childforums=1&amp;contenttypeid=1&amp;order=descending&amp;showposts=1&amp;query=" data-hint="Поиск на форумах">Форумы</option></select>
+<input class="button big" type="submit" value="Найти"/></div><div class="ip-holder"><div>
+<input type="text"  name="str" value="" class="i-p" autocomplete="off" placeholder="Введите город"/></div></div></div></div></form><form id="external-search" method="get" style="visibility: hidden;"></form>
+<script type="text/javascript">/* <![CDATA[ */
+	try { runCore.init_search(); } catch(e){};
+/* ]]> */</script></div></div></div></div></div>
+<div class="outer"><div class="b-aside-section m-media">
+<div class="b-prmplace"><div class="b-prmplace-media"><div class="b-prmplace-content">
+<a id="banObject20504" href="http://preved.tut.by/?clickid=20504&frameid=76&keywordid=0&rnd=17940&u=80145adf76c38ca61f7511a06972ffc7" target="_blank"><img src="http://bugaga.tut.by/20504_240x400_kupi_olja.png" width="240" height="400" border="0" alt="" title="" /></a></div></div></div></div><div class="b-section">
+<div class="b-forecast"><h1>Погода в <a href="" class="dotted" data-weathercode="26850">Минске</a></h1><div class="b-modes m-media"><ul class="b-modes-list"><li class="b-mode__li">
+<a class="b-mode-i" href="http://pogoda.tut.by/set.php?city_id=26850">Запомнить</a></li></ul></div>
+<div class="b-fcurrent "><table class="b-fcurrent__t" width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="fcurrent-top">
+<div class="fcurrent-aside"><div class="fcurrent-h">Сейчас</div></div>
+<div class="fcurrent-i"><div class="fcurrent-c"><div class="fcurrent-temp">
+<img class="forecast-icon" width="64" height="64" src="http://img.tyt.by/i/by4/weather/128/d/5.png?1" data-retina-src="http://img.tyt.by/i/by4/weather/128/d/5.png?1" alt="пасмурно"/>
+<span class="temp-i">+4&deg;</span></div>
+<div class="fcurrent-descr">пасмурно</div></div>
+<div class="fcurrent-detail"><div class="detail-i">Ощущается +3&deg;<br />Влажность 85 %</div>
+<div class="detail-i">Давление 766 мм рт. ст<br />Ветер 
+<img class="direction-icon icon-e" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" width="8" height="9" alt="В" /> В 2 м/c</div></div></div>
+</td><td class="fcurrent-s"><div class="fcurrent-aside"><div class="fcurrent-h">Вечером</div></div>
+<div class="fcurrent-i"><div class="fcurrent-c"><div class="fcurrent-temp">
+<img class="forecast-icon m-mediamin" width="32" height="32" src="http://img.tyt.by/i/by4/weather/128/n/22.png?1" data-retina-src="http://img.tyt.by/i/by4/weather/128/n/22.png?1" alt="пасмурно, туман"/>
+<span class="temp-i">+2&deg;</span>
+<img class="forecast-icon m-media" width="32" height="32" src="http://img.tyt.by/i/by4/weather/128/n/22.png?1" data-retina-src="http://img.tyt.by/i/by4/weather/128/n/22.png?1" alt="пасмурно, туман"/></div>
+<div class="fcurrent-descr">пасмурно, туман</div></div>
+<div class="fcurrent-detail"><div class="detail-i">
+Ощущается -1&deg;<br />Влажность 95 %</div><div class="detail-i">
+Давление 767 мм рт. ст<br />Ветер<img class="direction-icon icon-e" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" width="8" height="9" alt="В"/> В 3-5 м/c</div></div></div></td><td class="fcurrent-s"><div class="fcurrent-aside"><div class="fcurrent-h">Ночью</div></div>
+<div class="fcurrent-i"><div class="fcurrent-c"><div class="fcurrent-temp">
+<img class="forecast-icon m-mediamin" width="32" height="32" src="http://img.tyt.by/i/by4/weather/128/n/22.png?1" data-retina-src="http://img.tyt.by/i/by4/weather/128/n/22.png?1" alt="пасмурно, туман"/>
+<span class="temp-i">+2&deg;</span>
+<img class="forecast-icon m-media" width="32" height="32" src="http://img.tyt.by/i/by4/weather/128/n/22.png?1" data-retina-src="http://img.tyt.by/i/by4/weather/128/n/22.png?1" alt="пасмурно, туман"/></div>
+<div class="fcurrent-descr">пасмурно, туман</div></div>
+<div class="fcurrent-detail"><div class="detail-i">
+Ощущается 0&deg;<br />Влажность 100 %</div><div class="detail-i">
+Давление 768 мм рт. ст<br />Ветер<img class="direction-icon icon-e" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" width="8" height="9" alt="В"/> В 2-4 м/c</div></div></div></td><td class="fcurrent-s"><div class="fcurrent-aside"><div class="fcurrent-h">Завтра утром</div></div>
+<div class="fcurrent-i"><div class="fcurrent-c"><div class="fcurrent-temp">
+<img class="forecast-icon m-mediamin" width="32" height="32" src="http://img.tyt.by/i/by4/weather/128/d/22.png?1" data-retina-src="http://img.tyt.by/i/by4/weather/128/d/22.png?1" alt="пасмурно, туман"/>
+<span class="temp-i">+2&deg;</span>
+<img class="forecast-icon m-media" width="32" height="32" src="http://img.tyt.by/i/by4/weather/128/d/22.png?1" data-retina-src="http://img.tyt.by/i/by4/weather/128/d/22.png?1" alt="пасмурно, туман"/></div>
+<div class="fcurrent-descr">пасмурно, туман</div></div>
+<div class="fcurrent-detail"><div class="detail-i">
+Ощущается 0&deg;<br />Влажность 100 %</div><div class="detail-i">
+Давление 770 мм рт. ст<br />Ветер<img class="direction-icon icon-e" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" width="8" height="9" alt="В"/> В 2-4 м/c</div></div></div></td>
+</tr></table></div></div>
+
+
+<div class="b-forecast"><h2>Прогноз на неделю</h2><div class="b-modes">
+<ul class="b-modes-list"><li class="b-mode__li active">
+<a class="b-mode-i" data-toggle="tab" href="#tab-simple">Кратко</a>
+</li><li class="b-mode__li">
+<a class="b-mode-i" data-toggle="tab" href="#tab-future">Подробно</a>
+</li></ul></div>
+<div class="tab-content m-flex"><div class="b-simple tab-pane active" id="tab-simple"><table class="b-simple__t" width="100%" cellspacing="1" cellpadding="0" border="0"><tbody class="b-simple-body">
+<tr><td data-day-lite="1394053200"><a class="b-simple-bar" style="height: 100px;" href="#day-1394053200">
+<div class="bs-temp">
+<span class="bs-max">+4&deg;</span>
+<span class="bs-min m-media">+2&deg;</span>
+</div><span class="bs-icon">
+<img class="forecast-icon" title="пасмурно, туман" width="32" height="32" alt="пасмурно, туман" data-retina-src="http://img.tyt.by/i/by4/weather/128/d/22.png?1" src="http://img.tyt.by/i/by4/weather/128/d/22.png?1"/>
+</span>
+</a>
+</td>
+<td data-day-lite="1394139600"><a class="b-simple-bar" style="height: 110px;" href="#day-1394139600">
+<div class="bs-temp">
+<span class="bs-max">+5&deg;</span>
+<span class="bs-min m-media">+2&deg;</span>
+</div><span class="bs-icon">
+<img class="forecast-icon" title="пасмурно, туман" width="32" height="32" alt="пасмурно, туман" data-retina-src="http://img.tyt.by/i/by4/weather/128/d/22.png?1" src="http://img.tyt.by/i/by4/weather/128/d/22.png?1"/>
+</span>
+</a>
+</td>
+<td data-day-lite="1394226000"><a class="b-simple-bar" style="height: 120px;" href="#day-1394226000">
+<div class="bs-temp">
+<span class="bs-max">+6&deg;</span>
+<span class="bs-min m-media">+3&deg;</span>
+</div><span class="bs-icon">
+<img class="forecast-icon" title="пасмурно, без существенных осадков" width="32" height="32" alt="пасмурно, без существенных осадков" data-retina-src="http://img.tyt.by/i/by4/weather/128/d/11.png?1" src="http://img.tyt.by/i/by4/weather/128/d/11.png?1"/>
+</span>
+</a>
+</td>
+<td data-day-lite="1394312400"><a class="b-simple-bar" style="height: 130px;" href="#day-1394312400">
+<div class="bs-temp">
+<span class="bs-max">+7&deg;</span>
+<span class="bs-min m-media">0&deg;</span>
+</div><span class="bs-icon">
+<img class="forecast-icon" title="ясно" width="32" height="32" alt="ясно" data-retina-src="http://img.tyt.by/i/by4/weather/128/d/7.png?1" src="http://img.tyt.by/i/by4/weather/128/d/7.png?1"/>
+</span>
+</a>
+</td>
+<td data-day-lite="1394398800"><a class="b-simple-bar" style="height: 150px;" href="#day-1394398800">
+<div class="bs-temp">
+<span class="bs-max">+9&deg;</span>
+<span class="bs-min m-media">+1&deg;</span>
+</div><span class="bs-icon">
+<img class="forecast-icon" title="ясно" width="32" height="32" alt="ясно" data-retina-src="http://img.tyt.by/i/by4/weather/128/d/7.png?1" src="http://img.tyt.by/i/by4/weather/128/d/7.png?1"/>
+</span>
+</a>
+</td>
+<td data-day-lite="1394485200"><a class="b-simple-bar" style="height: 140px;" href="#day-1394485200">
+<div class="bs-temp">
+<span class="bs-max">+8&deg;</span>
+<span class="bs-min m-media">+3&deg;</span>
+</div><span class="bs-icon">
+<img class="forecast-icon" title="ясно" width="32" height="32" alt="ясно" data-retina-src="http://img.tyt.by/i/by4/weather/128/d/7.png?1" src="http://img.tyt.by/i/by4/weather/128/d/7.png?1"/>
+</span>
+</a>
+</td>
+<td data-day-lite="1394571600"><a class="b-simple-bar" style="height: 110px;" href="#day-1394571600">
+<div class="bs-temp">
+<span class="bs-max">+5&deg;</span>
+<span class="bs-min m-media">-2&deg;</span>
+</div><span class="bs-icon">
+<img class="forecast-icon" title="переменная облачность" width="32" height="32" alt="переменная облачность" data-retina-src="http://img.tyt.by/i/by4/weather/128/d/6.png?1" src="http://img.tyt.by/i/by4/weather/128/d/6.png?1"/>
+</span>
+</a>
+</td>
+</tr></tbody><tfoot class="b-simple-foot">
+<tr><td  data-day-lite="1394053200"><a href="#day-1394053200">
+<span class="bs-day"><span class="m-media">Завтра</span>
+<span class="m-mediamin">ЧТ</span></span>
+<span class="bs-date">6 марта</span></a></td><td  data-day-lite="1394139600"><a href="#day-1394139600">
+<span class="bs-day">ПТ</span>
+<span class="bs-date">7</span></a></td><td class=bs-weekend data-day-lite="1394226000"><a href="#day-1394226000">
+<span class="bs-day">СБ</span>
+<span class="bs-date">8</span></a></td><td class=bs-weekend data-day-lite="1394312400"><a href="#day-1394312400">
+<span class="bs-day">ВС</span>
+<span class="bs-date">9</span></a></td><td  data-day-lite="1394398800"><a href="#day-1394398800">
+<span class="bs-day">ПН</span>
+<span class="bs-date">10</span></a></td><td  data-day-lite="1394485200"><a href="#day-1394485200">
+<span class="bs-day">ВТ</span>
+<span class="bs-date">11</span></a></td><td  data-day-lite="1394571600"><a href="#day-1394571600">
+<span class="bs-day">СР</span>
+<span class="bs-date">12</span></a></td></tr></tfoot></table></div>
+<script type="text/javascript">/* <![CDATA[ */
+$(".b-modes-list a[data-toggle=tab]").click(function(e){
+	e.preventDefault();
+	$(this).tab("show");
+});
+(function (nameAttr) {
+	$(nameAttr).on({
+	'mouseenter': function () {
+		$('[data-day-lite="'+$(this).data('day-lite')+'"]').addClass('hover');
+	},
+	'mouseleave': function () {
+	$('[data-day-lite="'+$(this).data('day-lite')+'"]').removeClass('hover');
+	},
+	'click': function () {
+		var oForm = $("#external-search");
+		var oLink = $(this).data('day-lite');
+		oForm.data('oAction', oForm.attr('action'));
+		oForm.attr('action','#day-'+$(this).data('day-lite'));
+		$('a[href="#tab-future"]').trigger('click');
+		oForm.submit();
+		$(window).scrollTop($('[name="day-'+oLink+'"]').offset().top); //for opera 12
+		oForm.attr('action', "");
+		oForm.attr('action', oForm.data('oAction'));
+	}
+	});
+})('[data-day-lite]'); 
+/* ]]> */</script>
+<div class="b-future tab-pane" id="tab-future"><table class="b-future__t" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody class="future-top"><tr>
+<th rowspan="2" ><a name="day-1394053200"></a>Четверг
+<span class="future-day">6 марта</span>
+</th></tr><tr><td><div class="future-i"><div class="future-c"><div class="future-aside">
+<div class="future-h">Утром</div></div>
+<div class="future-temp"><img class="forecast-icon" width="32" height="32" alt="пасмурно, туман" data-retina-src="http://img.tyt.by/i/by4/weather/128/d/22.png?1" src="http://img.tyt.by/i/by4/weather/128/d/22.png?1"/>
+<span class="temp-i">+2&deg;</span></div>
+<div class="future-descr">пасмурно, туман</div></div></div>
+<div class="future-detail m-mediamin"><div class="detail-i"> Влажность 100 % </div>
+<div class="detail-i">Давление 770 мм рт. ст<br/>
+Ветер <img class="direction-icon icon-e" width="8" height="9" alt="В" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" />
+В 2-4 м/c</div></div></td><td><div class="future-i"><div class="future-c"><div class="future-aside">
+<div class="future-h">Днем</div></div>
+<div class="future-temp"><img class="forecast-icon" width="32" height="32" alt="пасмурно, туман" data-retina-src="http://img.tyt.by/i/by4/weather/128/d/22.png?1" src="http://img.tyt.by/i/by4/weather/128/d/22.png?1"/>
+<span class="temp-i">+4&deg;</span></div>
+<div class="future-descr">пасмурно, туман</div></div></div>
+<div class="future-detail m-mediamin"><div class="detail-i"> Влажность 90 % </div>
+<div class="detail-i">Давление 770 мм рт. ст<br/>
+Ветер <img class="direction-icon icon-ne" width="8" height="9" alt="CВ" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" />
+CВ 2-4 м/c</div></div></td><td><div class="future-i"><div class="future-c"><div class="future-aside">
+<div class="future-h">Вечером</div></div>
+<div class="future-temp"><img class="forecast-icon" width="32" height="32" alt="пасмурно, туман" data-retina-src="http://img.tyt.by/i/by4/weather/128/n/22.png?1" src="http://img.tyt.by/i/by4/weather/128/n/22.png?1"/>
+<span class="temp-i">+3&deg;</span></div>
+<div class="future-descr">пасмурно, туман</div></div></div>
+<div class="future-detail m-mediamin"><div class="detail-i"> Влажность 100 % </div>
+<div class="detail-i">Давление 772 мм рт. ст<br/>
+Ветер <img class="direction-icon icon-e" width="8" height="9" alt="В" src="http://img.tyt.by/i/by4/weather/i/1x1.gif" />
+В 2-4 м/c</div></div></td><td><div class="future-i"><div class="future-c"><div class="future-aside">
+<div class="future-h">Ночью</div></div>
+<div class="future-temp"><img class="forecast-icon" width="32" height="32" alt="пасмурно, туман" data-retina-src="http://img.ty
